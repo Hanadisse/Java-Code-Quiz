@@ -3,11 +3,11 @@ This website was made to take a basic javascript quiz. it is a 6 question quiz a
 
 ## Screenshots & Links
 
-![Screenshot (3)](https://user-images.githubusercontent.com/107383497/205799542-019fb2e0-a1bf-47e9-9d97-e1921fe95109.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/107383497/205799592-c1a79421-ed9a-44be-83fd-98912acfd153.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/107383497/205799608-7fb49709-4f2a-4a21-89c2-10715630a939.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/107383497/205799621-258c8136-cda4-4e1d-a510-1e32fb077dc6.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/107383497/205799643-6dc94a3e-3082-4e9a-b200-2b67f43c2434.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/107383497/205799656-2104f102-af5e-4fcf-a534-f2811f386a99.png)
-![Screenshot (9)](https://user-images.githubusercontent.com/107383497/205799670-11b6a2ab-e43f-4603-a998-664536e9d76b.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/107383497/205799684-26291be1-5582-4b89-9ccd-29cd549928a7.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/107383497/205800951-3109da6e-a4c7-4dea-84ba-ea64512ff355.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/107383497/205800963-7e0a89e2-b2db-4d5a-9ca8-de1a1fd3e041.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/107383497/205800970-2bfb8c61-2ae3-4ad6-a363-5702c717038b.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/107383497/205800975-ff30a4d3-3969-4d90-8245-cad76cdf6adc.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/107383497/205800995-c92ff144-95e4-4235-b2e8-8b80b683055c.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/107383497/205801004-795f7538-5fe7-4e07-98a2-3f1b140c7764.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/107383497/205801015-dcb4ab85-54af-4f48-ab52-6b87d12d1509.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/107383497/205801025-ecc14400-6b4e-4ff0-9c77-9a9ddbd0aa42.png)
