@@ -11,3 +11,9 @@ This website was made to take a basic javascript quiz. it is a 6 question quiz a
 ![Screenshot (8)](https://user-images.githubusercontent.com/107383497/205801004-795f7538-5fe7-4e07-98a2-3f1b140c7764.png)
 ![Screenshot (9)](https://user-images.githubusercontent.com/107383497/205801015-dcb4ab85-54af-4f48-ab52-6b87d12d1509.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/107383497/205801025-ecc14400-6b4e-4ff0-9c77-9a9ddbd0aa42.png)
+
+deployed link
+https://hanadisse.github.io/java-code-quiz/
+
+git hub repo
+https://github.com/Hanadisse/java-code-quiz
